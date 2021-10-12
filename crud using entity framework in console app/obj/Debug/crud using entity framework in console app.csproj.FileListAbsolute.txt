@@ -1,0 +1,11 @@
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\bin\Debug\crud using entity framework in console app.exe.config
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\bin\Debug\crud using entity framework in console app.exe
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\bin\Debug\crud using entity framework in console app.pdb
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\bin\Debug\EntityFramework.dll
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\bin\Debug\EntityFramework.xml
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\obj\Debug\crud using entity framework in console app.csproj.AssemblyReference.cache
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\obj\Debug\crud using entity framework in console app.csproj.CoreCompileInputs.cache
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\obj\Debug\crud using entity framework in console app.exe
+C:\Users\saksh\source\repos\crud using entity framework in console app\crud using entity framework in console app\obj\Debug\crud using entity framework in console app.pdb
